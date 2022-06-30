@@ -1,0 +1,25 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-06-11T09:25:31.629294",
+    "startedAt": "2022-06-11T09:25:29.304404",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--artifact_name",
+        "exercise_1/zen_of_python:v1"
+    ],
+    "state": "running",
+    "program": "use_artifact.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises",
+        "commit": "b4e585e68b0758a9897c69f793a7d22f63426a9c"
+    },
+    "email": null,
+    "root": "/Users/Kate/udacity_mldevops/nd0821-c2-build-model-workflow-exercises",
+    "host": "Kates-MacBook-Air.local",
+    "username": "Kate",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/udacity/bin/python"
+}

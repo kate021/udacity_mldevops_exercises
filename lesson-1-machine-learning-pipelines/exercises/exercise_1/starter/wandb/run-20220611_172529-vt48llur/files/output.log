@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "use_artifact.py", line 43, in <module>
+    go(args)
+  File "use_artifact.py", line 18, in go
+    artifact.add_file("zen.txt")
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/udacity/lib/python3.8/site-packages/wandb/apis/public.py", line 3748, in add_file
+    raise ValueError("Cannot add files to an artifact once it has been saved")
+ValueError: Cannot add files to an artifact once it has been saved

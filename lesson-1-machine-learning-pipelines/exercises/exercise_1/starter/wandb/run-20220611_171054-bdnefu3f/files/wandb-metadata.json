@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-06-11T09:10:58.052006",
+    "startedAt": "2022-06-11T09:10:54.659155",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--input_file",
+        "zen.txt",
+        "--artifact_name",
+        "zen_of_python",
+        "--artifact_type",
+        "text_file",
+        "--artifact_description",
+        "20 aphorisms about writing good python code"
+    ],
+    "state": "running",
+    "program": "upload_artifact.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises",
+        "commit": "b4e585e68b0758a9897c69f793a7d22f63426a9c"
+    },
+    "email": null,
+    "root": "/Users/Kate/udacity_mldevops/nd0821-c2-build-model-workflow-exercises",
+    "host": "Kates-MacBook-Air.local",
+    "username": "Kate",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/udacity/bin/python"
+}
